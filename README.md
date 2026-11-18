@@ -102,4 +102,4 @@ Do not invent facts or results. If anything in the brief is unclear, ask me befo
 - [ ] Transcripts bundle prepared via the makefun CLI
 - [ ] I reviewed the agent’s work and removed any invented claims
 
-Good luck — keep it simple, verify everything, and ship something you’d be comfortable putting your name on.
+Wishing you a smooth first run — take your time, double-check the details, and I hope you’re proud of what you send out into the world.
